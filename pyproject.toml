@@ -1,6 +1,6 @@
 [project]
 name = "print_utils"
-version = "1.0.0-beta-prealpha-promax"
+version = "1.0.0"
 authors = [
   { name='destrex-271', email="destrex271@gmail.com" },
   { name='darth-boson', email="zboson123@outlook.com" },

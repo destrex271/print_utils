@@ -1,0 +1,8 @@
+LICENSE
+pyproject.toml
+src/clean_print/__init__.py
+src/clean_print/clean.py
+src/print_utils.egg-info/PKG-INFO
+src/print_utils.egg-info/SOURCES.txt
+src/print_utils.egg-info/dependency_links.txt
+src/print_utils.egg-info/top_level.txt
