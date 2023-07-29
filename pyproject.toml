@@ -1,5 +1,5 @@
 [project]
-name = "print_utils"
+name = "clean_print_utils"
 version = "1.0.0"
 authors = [
   { name='destrex-271', email="destrex271@gmail.com" },
